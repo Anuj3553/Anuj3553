@@ -30,6 +30,13 @@
   <img src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
+<div>
+  <img src="https://raw.githubusercontent.com/Anuj3553/Anuj3553/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+###
+
 ---
 
 ## 🛠️ Technologies & Tools:
