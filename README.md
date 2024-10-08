@@ -32,7 +32,7 @@
 
 ### 
 <div>
-  <img src="https://raw.githubusercontent.com/Anuj3553/Anuj3553/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation" />
 </div>
 ### 
 ---
