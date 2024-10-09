@@ -44,14 +44,13 @@
 
   <br/>
   
-  <h3>💻 LeetCode Stats</h3>
-  <img src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" width="600"/>
+</div>
+
+  <img src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
   
   <br/>
-
-  <h3>🐍 Snake Animation</h3>
-  <img src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation" width="600"/>
-</div>
+  
+  <img src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation"/>
 
 ---
 
