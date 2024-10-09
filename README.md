@@ -42,7 +42,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
   </a>
 
-  <br/>
+  <br/><br/><br/>
+  
 
   <img width="70%" src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
   
