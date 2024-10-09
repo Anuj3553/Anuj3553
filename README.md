@@ -21,29 +21,36 @@
 
 ## 🔥 GitHub Stats 🔥
 <div align="center">
+
+  <h3>📊 Anuj Verma's Awesome GitHub Stats</h3>
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark&preferLogin=false" alt="Anuj Verma's Awesome GitHub Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark&preferLogin=false" alt="Anuj Verma's Awesome GitHub Stats" width="600"/>
   </a>
+
+  <h3>🔥 GitHub Streak 🔥</h3>
   <a href="https://github-readme-streak-stats.herokuapp.com?user=anuj3553&theme=transparent&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anuj3553&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/Anuj3553">
-   <img width="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj3553&theme=radical" alt="Profile Summary">
-  </a>
-  <a href="https://github.com/Anuj3553">
-     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anuj3553&theme=transparent&hide_border=true" alt="GitHub Streak" width="600"/>
   </a>
 
   <br/>
   
-  <img src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" />
+  <h3>📈 Profile Summary</h3>
+  <a href="https://github.com/Anuj3553">
+    <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj3553&theme=radical" alt="Profile Summary">
+  </a>
+  <a href="https://github.com/Anuj3553">
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
+  </a>
+
+  <br/>
+  
+  <h3>💻 LeetCode Stats</h3>
+  <img src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" width="600"/>
   
   <br/>
 
-  <img src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation" />
+  <h3>🐍 Snake Animation</h3>
+  <img src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation" width="600"/>
 </div>
 
 ---
