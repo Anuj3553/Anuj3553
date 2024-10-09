@@ -43,14 +43,14 @@
   </a>
 
   <br/>
-  
-</div>
 
-  <img src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
+  <img width="100%" src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
   
   <br/>
   
-  <img src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation"/>
+  
+</div>
 
 ---
 
