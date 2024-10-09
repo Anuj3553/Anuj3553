@@ -44,7 +44,7 @@
 
   <br/>
 
-  <img width="100%" src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
+  <img width="70%" src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
   
   <br/>
   
