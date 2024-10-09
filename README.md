@@ -36,10 +36,10 @@
   
   <h3>📈 Profile Summary</h3>
   <a href="https://github.com/Anuj3553">
-    <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj3553&theme=radical" alt="Profile Summary">
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj3553&theme=radical" alt="Profile Summary">
   </a>
   <a href="https://github.com/Anuj3553">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
   </a>
 
   <br/>
