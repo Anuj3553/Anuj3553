@@ -27,8 +27,14 @@
   <a href="https://github-readme-streak-stats.herokuapp.com?user=anuj3553&theme=transparent&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=anuj3553&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
+  <br/>
+  
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
   <img src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" />
+  
+  <br/>
+
   <img src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation" />
 </div>
 
