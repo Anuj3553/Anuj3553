@@ -31,12 +31,11 @@
   <br/>
   
   <a href="https://github.com/Anuj3553">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Anuj3553&show_icons=true&theme=dark&count_private=true" alt="Anuj3553's GitHub stats" />
-</a>
-<br>
-<a href="https://github.com/Anuj3553">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
-</a>
+   <img width="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj3553&theme=radical" alt="Profile Summary">
+  </a>
+  <a href="https://github.com/Anuj3553">
+     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
+  </a>
 
   <br/>
   
