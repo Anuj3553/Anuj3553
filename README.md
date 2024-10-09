@@ -12,7 +12,7 @@
 - 🌱 **Currently Working On:** [Bitbox](https://bitbox-in.netlify.app/)<br>
 - 💬 Ask Me About: Python, Java, C++, Web Development, Anime, and more. <br>
 - 📫 Reach Me At: [anujverma3553@gmail.com](mailto:anujverma3553@gmail.com) <br>
-- ⚡ Fun Fact: I’m a **Anuj** who loves intelligence and open-source! <br>
+- ⚡ Fun Fact: I’m **Anuj** who loves intelligence and open-source! <br>
 - 💎 **Smart + Hardworking + Quick Adaptation + Critical Thinking** <br>
 - 💞 I’m looking to collaborate on exciting web development projects and open-source contributions. <br>
 - 📍 **Location:** India <br>
