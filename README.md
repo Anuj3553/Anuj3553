@@ -30,8 +30,13 @@
   
   <br/>
   
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-  <img height="325" src="https://raw.githubusercontent.com/Anuj3553/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Anuj3553" style="max-width: 100%;">
+  <a href="https://github.com/Anuj3553">
+   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Anuj3553&show_icons=true&theme=dark&count_private=true" alt="Anuj3553's GitHub stats" />
+</a>
+<br>
+<a href="https://github.com/Anuj3553">
+   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
+</a>
 
   <br/>
   
