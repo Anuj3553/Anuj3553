@@ -123,7 +123,7 @@
   <a href="https://www.linkedin.com/in/anuj-verma-67493125a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/anuj3553" target="_blank">
+  <a href="https://github.com/gunjesh843" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
   <a href="mailto:anujverma3553@gmail.com" target="_blank">
@@ -137,6 +137,12 @@
   </a>
   <a href="https://twitter.com/Anujver04515928" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
+  </a>
+  <a href="https://wa.me/918081718102" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
+  </a>
+  <a href="https://discord.com/users/anujv3553" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/>
   </a>
 </p>
 
