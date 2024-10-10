@@ -122,8 +122,8 @@
 
 <div style="background-color:#f0f4f8; padding: 15px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px;">
   <div padding: 0;">
-    <p>🔸 <strong>GirlScript Summer of Code (GSSoC'24 Extended)</strong>: <i>Project Admin</i> – Continued managing repositories, mentoring contributors, and ensuring project progress after the main event.</p>
-    <p>🔸 <strong>GirlScript Summer of Code (GSSoC'24 Extended)</strong>: <i>Project Contributor</i> – Contributed to open-source projects by fixing bugs, implementing features, and collaborating with other developers.</p>
+    <p>🔸 <strong>Project Admin</strong>: – Continued managing repositories, mentoring contributors, and ensuring project progress after the main event.</p>
+    <p>🔸 <strong>Project Contributor</strong>: – Contributed to open-source projects by fixing bugs, implementing features, and collaborating with other developers.</p>
   </div>
 </div>
 
