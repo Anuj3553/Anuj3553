@@ -119,9 +119,13 @@
     <img src="https://img.shields.io/badge/-GirlScript%20Summer%20of%20Code%20(GSSoC'24%20Extended)-F05032?logo=girlscript&logoColor=white&style=for-the-badge" alt="GSSoC'24 Extended"/>
   </a>
 </p>
-<br/>
-- **GirlScript Summer of Code (GSSoC'24 Extended)**: Project Admin – Continued managing repositories, mentoring contributors, and ensuring project progress after the main event.
-- **GirlScript Summer of Code (GSSoC'24 Extended)**: Project Contributor – Contributed to open-source projects by fixing bugs, implementing features, and collaborating with other developers.
+
+<div style="background-color:#f0f4f8; padding: 15px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px;">
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🔸 <strong>GirlScript Summer of Code (GSSoC'24 Extended)</strong>: <i>Project Admin</i> – Continued managing repositories, mentoring contributors, and ensuring project progress after the main event.</li>
+    <li>🔸 <strong>GirlScript Summer of Code (GSSoC'24 Extended)</strong>: <i>Project Contributor</i> – Contributed to open-source projects by fixing bugs, implementing features, and collaborating with other developers.</li>
+  </ul>
+</div>
 
 ---
 
