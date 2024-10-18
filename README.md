@@ -38,6 +38,7 @@
   <a href="https://github.com/Anuj3553">
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj3553&theme=radical" alt="Profile Summary">
   </a>
+  
   <a href="https://github.com/Anuj3553">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
   </a>
@@ -45,7 +46,7 @@
   <br/><br/>
 
   <a href="https://github.com/Anuj3553">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=8" alt="GitHub Trophies" style="width: 90%;" />
   </a>
   
   <br/><br/>
@@ -181,3 +182,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+<br/>
+
+---
