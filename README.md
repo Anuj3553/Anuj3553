@@ -42,7 +42,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
   </a>
   
-  <br/>
+  <br/><br/>
 
   <div align="center">
     <!-- GitHub Trophies -->
@@ -179,7 +179,7 @@
 
 <br/>
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
