@@ -45,7 +45,7 @@
   <br/><br/>
 
   <a href="https://github.com/Anuj3553">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 55%; display: inline-block;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 80%; display: inline-block;" />
   </a>
   
   <br/><br/>
