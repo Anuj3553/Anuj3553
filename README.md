@@ -44,14 +44,12 @@
   
   <br/><br/>
 
-  <div align="center">
-    <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-  </div>
-
+  <a href="https://github.com/Anuj3553">
+      <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+  </a>
+  
   <br/><br/>
   
-
   <img width="70%" src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
   
   <br/>
