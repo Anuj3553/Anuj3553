@@ -42,9 +42,7 @@
   </a>
 
   <h3>🔥 GitHub Streak 🔥</h3>
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=anuj3553&theme=transparent&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anuj3553&theme=transparent&hide_border=true" alt="GitHub Streak" width="600"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anuj3553&theme=meta-dark" alt="GitHub Streak" /></a>
 
   <br/>
   
