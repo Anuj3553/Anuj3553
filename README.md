@@ -41,10 +41,10 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark&preferLogin=false" alt="Anuj Verma's Awesome GitHub Stats" width="600"/>
   </a>
 
-  <h3>🔥 GitHub Streak 🔥</h3>
+  <!-- <h3>🔥 GitHub Streak 🔥</h3>
   <a href="https://streak-stats.demolab.com?user=Anuj3553&theme=meta-dark">
     <img src="https://streak-stats.demolab.com?user=Anuj3553&theme=meta-dark" alt="GitHub Streak" />
-  </a>
+  </a> -->
 
   <br/>
   
