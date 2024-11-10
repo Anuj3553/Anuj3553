@@ -42,7 +42,7 @@
   </a>
 
   <h3>🔥 GitHub Streak 🔥</h3>
-  <a>
+  <a href="https://streak-stats.demolab.com?user=Anuj3553&theme=meta-dark">
     <img src="https://streak-stats.demolab.com?user=Anuj3553&theme=meta-dark" alt="GitHub Streak" />
   </a>
 
