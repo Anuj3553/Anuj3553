@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anuj3553&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -19,7 +21,25 @@
 
 ---
 
-## 🔥 GitHub Stats 🔥
+## 🪶 GSSOC(24) Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center';>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> -->
+</div>
+
+---
+
+## 🔥 GitHub Stats 
 <div align="center">
 
   <h3>📊 Anuj Verma's Awesome GitHub Stats</h3>
@@ -55,9 +75,81 @@
   
   <br/>
   
-  <img width="100%" src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation"/>
-  
+  <img width="100%" src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation"/>  
 </div>
+
+---
+
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
+      <br>Next JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <br>React JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>Node JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="55" height="55" />
+      <br>Prisma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="55" height="55" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="md" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="55" height="55" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
+      <br>Vite
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -126,7 +218,7 @@
   </a>
 </p>
 
-<div style="background-color:#f0f4f8; padding: 15px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px;">
+<div style="padding: 15px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px;">
   <div padding: 0;">
     <p>🔸 <strong>Project Admin</strong>: – Continued managing repositories, mentoring contributors, and ensuring project progress after the main event.</p>
     <p>🔸 <strong>Project Contributor</strong>: – Contributed to open-source projects by fixing bugs, implementing features, and collaborating with other developers.</p>
